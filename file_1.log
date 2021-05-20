@@ -1,0 +1,4973 @@
+2021-04-30 19:31:15.657 | ERROR    | __main__:connect:79 - телеграмм отвалился ваще
+2021-04-30 19:33:46.707 | INFO     | __main__:start:73 - /code 123
+2021-04-30 19:40:29.451 | INFO     | __main__:start:72 - /code
+2021-04-30 19:40:29.453 | ERROR    | __main__:connect:83 - телеграмм отвалился ваще
+2021-04-30 19:40:56.150 | INFO     | __main__:start:72 - /code
+2021-04-30 19:41:05.455 | INFO     | __main__:start:72 - /code
+2021-04-30 19:41:33.633 | INFO     | __main__:start:72 -  123
+2021-04-30 19:42:55.626 | INFO     | __main__:start:73 - 123123
+2021-04-30 19:42:55.758 | ERROR    | __main__:connect:81 - телеграмм отвалился ваще
+2021-04-30 19:46:54.127 | INFO     | __main__:start:73 - qweqwessdf dfsdf
+2021-04-30 19:46:54.284 | ERROR    | __main__:connect:81 - телеграмм отвалился ваще
+2021-04-30 19:47:17.978 | INFO     | __main__:start:77 - qweqwea 123
+2021-04-30 19:47:18.116 | ERROR    | __main__:connect:85 - телеграмм отвалился ваще
+2021-04-30 19:48:13.197 | INFO     | __main__:start:79 - qweqweasd
+2021-04-30 19:48:13.399 | INFO     | __main__:code_to_image:30 - <class 'int'>
+2021-04-30 19:48:13.404 | ERROR    | __main__:connect:87 - телеграмм отвалился ваще
+2021-04-30 19:48:54.987 | INFO     | __main__:start:79 - qweqwe123
+2021-04-30 19:48:55.124 | INFO     | __main__:code_to_image:30 - 1087968824
+2021-04-30 19:48:55.129 | ERROR    | __main__:connect:87 - телеграмм отвалился ваще
+2021-04-30 19:49:53.785 | INFO     | __main__:start:79 - qweqwe123
+2021-04-30 19:49:53.886 | INFO     | __main__:code_to_image:30 - qweqwe123
+2021-04-30 19:49:54.563 | ERROR    | __main__:connect:87 - телеграмм отвалился ваще
+2021-04-30 19:50:33.035 | INFO     | __main__:start:79 - 123jhjk
+2021-04-30 19:50:33.141 | INFO     | __main__:code_to_image:30 - 123jhjk
+2021-04-30 19:54:08.038 | INFO     | __main__:start:79 - 123123qweqwe
+2021-04-30 19:54:08.139 | INFO     | __main__:code_to_image:30 - 123123qweqwe
+2021-04-30 19:54:08.680 | ERROR    | __main__:connect:87 - телеграмм отвалился ваще
+2021-04-30 19:55:18.681 | ERROR    | __main__:connect:87 - телеграмм отвалился ваще
+2021-04-30 19:58:04.540 | INFO     | __main__:start:81 - 123123jkjkl
+2021-04-30 19:58:04.693 | INFO     | __main__:code_to_image:30 - 123123jkjkl
+2021-04-30 19:58:05.311 | ERROR    | __main__:connect:89 - телеграмм отвалился ваще
+2021-04-30 19:59:15.314 | ERROR    | __main__:connect:89 - телеграмм отвалился ваще
+2021-04-30 20:00:25.316 | ERROR    | __main__:connect:89 - телеграмм отвалился ваще
+2021-04-30 20:00:54.592 | INFO     | __main__:start:81 - 12321qweqw
+2021-04-30 20:00:54.740 | INFO     | __main__:code_to_image:30 - 12321qweqw
+2021-04-30 20:00:55.380 | ERROR    | __main__:connect:89 - телеграмм отвалился ваще
+2021-04-30 20:01:27.270 | INFO     | __main__:start:81 - qweqw12312
+2021-04-30 20:01:27.413 | INFO     | __main__:code_to_image:30 - qweqw12312
+2021-04-30 20:01:27.936 | ERROR    | __main__:connect:89 - телеграмм отвалился ваще
+2021-04-30 20:02:37.938 | ERROR    | __main__:connect:89 - телеграмм отвалился ваще
+2021-04-30 20:03:47.940 | ERROR    | __main__:connect:89 - телеграмм отвалился ваще
+2021-04-30 20:04:33.467 | INFO     | __main__:start:81 - 123jkljkl
+2021-04-30 20:04:33.640 | INFO     | __main__:code_to_image:30 - 123jkljkl
+2021-04-30 20:12:59.115 | INFO     | __main__:start:81 - 123123hjk
+2021-04-30 20:12:59.243 | INFO     | __main__:code_to_image:30 - 123123hjk
+2021-04-30 20:17:22.893 | INFO     | __main__:start:81 - qweqwe123123
+2021-04-30 20:17:23.013 | INFO     | __main__:code_to_image:30 - qweqwe123123
+2021-04-30 20:24:05.241 | INFO     | __main__:start:81 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:24:05.335 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:31:03.045 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:31:03.200 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:35:20.225 | INFO     | __main__:start:70 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:35:20.295 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:35:20.296 | INFO     | __main__:code_to_image:34 - поймали
+2021-04-30 20:35:20.297 | INFO     | __main__:code_to_image:34 - поймали
+2021-04-30 20:35:20.298 | INFO     | __main__:code_to_image:34 - поймали
+2021-04-30 20:35:20.298 | INFO     | __main__:code_to_image:34 - поймали
+2021-04-30 20:36:50.953 | INFO     | __main__:start:73 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:36:51.036 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:36:51.037 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:36:51.047 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:36:51.047 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:36:51.048 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:42:57.677 | INFO     | __main__:start:73 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:42:57.882 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:42:57.884 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:42:57.884 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:42:57.885 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:42:57.886 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:42:58.004 | ERROR    | __main__:connect:81 - телеграмм отвалился ваще
+2021-04-30 20:44:08.087 | ERROR    | __main__:connect:81 - телеграмм отвалился ваще
+2021-04-30 20:44:39.887 | INFO     | __main__:start:73 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:44:40.160 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:44:40.161 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:44:40.162 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:44:40.163 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:44:40.163 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:44:40.225 | ERROR    | __main__:connect:81 - телеграмм отвалился ваще
+2021-04-30 20:45:26.925 | INFO     | __main__:start:73 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:45:27.304 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:45:27.305 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:45:27.306 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:45:27.307 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:45:27.307 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:48:03.013 | INFO     | __main__:start:73 -     img.crop((0,0,540))
+2021-04-30 20:48:03.201 | INFO     | __main__:code_to_image:30 -     img.crop((0,0,540))
+2021-04-30 20:49:27.723 | INFO     | __main__:start:73 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:49:27.942 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:49:27.943 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:49:27.944 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:49:27.949 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:49:27.950 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:50:22.928 | INFO     | __main__:start:73 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:50:23.172 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:50:23.173 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:50:23.174 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:50:23.175 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:50:23.175 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:51:11.324 | INFO     | __main__:start:62 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:51:11.560 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:51:11.561 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:51:11.562 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:51:11.562 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:51:11.563 | INFO     | __main__:code_to_image:36 - поймали
+2021-04-30 20:58:25.914 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:58:26.056 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:58:26.072 | ERROR    | __main__:connect:73 - телеграмм отвалился ваще
+2021-04-30 20:59:10.686 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:59:10.822 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 20:59:10.826 | ERROR    | __main__:connect:73 - телеграмм отвалился ваще
+2021-04-30 21:00:20.826 | ERROR    | __main__:connect:73 - телеграмм отвалился ваще
+2021-04-30 21:01:30.837 | ERROR    | __main__:connect:73 - телеграмм отвалился ваще
+2021-04-30 21:02:40.844 | ERROR    | __main__:connect:73 - телеграмм отвалился ваще
+2021-04-30 21:13:13.157 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:13:13.546 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:13:13.548 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:13:13.549 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:13:13.550 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:13:13.551 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:18:24.454 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:18:24.975 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:18:24.977 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:18:24.977 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:18:24.978 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:18:24.979 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:19:16.450 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:19:16.930 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:19:16.931 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:19:16.932 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:19:16.933 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:19:16.933 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:20:52.804 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:20:53.039 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:20:53.040 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:20:53.041 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:20:53.041 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:20:53.042 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:21:26.461 | INFO     | __main__:start:65 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:21:26.728 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:21:26.729 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:21:26.730 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:21:26.730 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:21:26.731 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:24:35.973 | INFO     | __main__:start:66 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:24:36.313 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:24:36.314 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:24:36.315 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:24:36.316 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:24:36.317 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:24:59.787 | INFO     | __main__:start:66 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:25:00.112 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:25:00.118 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:25:00.122 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:25:00.124 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:25:00.126 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:25:46.255 | INFO     | __main__:start:66 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:25:46.489 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        
+        if x < len(text)-1:
+            if text[x]+text[x+1]=='\n':
+                i=0
+2021-04-30 21:25:46.491 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:25:46.492 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:25:46.493 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:25:46.493 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:58.729 | INFO     | __main__:start:66 - def code_to_image(string,id_chat): 
+    #img = Image.new('RGB', (1000, 1000), color = (73, 109, 137))
+    img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    text = string
+
+    logger.info(text)
+
+    width = 250
+
+    text = '1   '+text
+    line = 1
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            width += 20
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(510,30),(540,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (530,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (540,width)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,590,width))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-04-30 21:26:58.805 | INFO     | __main__:code_to_image:30 - def code_to_image(string,id_chat): 
+    #img = Image.new('RGB', (1000, 1000), color = (73, 109, 137))
+    img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    text = string
+
+    logger.info(text)
+
+    width = 250
+
+    text = '1   '+text
+    line = 1
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            width += 20
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(510,30),(540,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (530,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (540,width)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,590,width))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-04-30 21:26:58.816 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:58.817 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:58.817 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:58.818 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:58.818 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.060 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.060 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.061 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.061 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.062 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.063 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.063 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.064 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.792 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.793 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.793 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.794 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.795 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.795 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.796 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.796 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.801 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.806 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.807 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.808 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.808 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.809 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.810 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:26:59.810 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:27:00.070 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:27:00.071 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:27:00.071 | INFO     | __main__:code_to_image:41 - поймали
+2021-04-30 21:27:00.072 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:17:07.158 | INFO     | __main__:start:67 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            width += 20
+2021-05-04 14:17:07.262 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            width += 20
+2021-05-04 14:17:07.263 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:17:07.264 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:17:07.265 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:17:07.265 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:17:07.266 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:20:48.732 | INFO     | __main__:start:69 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            width += 20
+2021-05-04 14:20:48.907 | INFO     | __main__:code_to_image:30 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            width += 20
+2021-05-04 14:20:48.908 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 14:20:48.908 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 14:20:48.909 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 14:20:48.910 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 14:20:48.910 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 14:22:24.647 | INFO     | __main__:start:69 - height
+2021-05-04 14:22:24.761 | INFO     | __main__:code_to_image:30 - height
+2021-05-04 14:30:41.683 | INFO     | __main__:start:74 - asdjklasdjkl asdjklasd
+2021-05-04 14:30:41.693 | INFO     | __main__:code_to_image:27 - asdjklasdjkl asdjklasd
+2021-05-04 14:33:13.177 | INFO     | __main__:start:74 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+2021-05-04 14:33:13.181 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+2021-05-04 14:33:13.182 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:33:13.183 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:33:13.184 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:33:13.184 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:33:13.185 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:35:03.197 | INFO     | __main__:start:74 - sdfkdls;fd
+2021-05-04 14:35:03.198 | INFO     | __main__:code_to_image:27 - sdfkdls;fd
+2021-05-04 14:35:31.598 | INFO     | __main__:start:74 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+        else:
+            width +=1
+2021-05-04 14:35:31.599 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+        else:
+            width +=1
+2021-05-04 14:35:31.600 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:35:31.601 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:35:31.601 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:35:31.602 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:35:31.603 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:35:31.607 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:36:11.609 | INFO     | __main__:start:74 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+        else:
+            width +=1
+2021-05-04 14:36:11.611 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+        else:
+            width +=1
+2021-05-04 14:36:11.611 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:36:11.612 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:36:11.612 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:36:11.613 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:36:11.614 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:36:11.618 | INFO     | __main__:code_to_image:39 - поймали
+2021-05-04 14:40:17.739 | INFO     | __main__:start:82 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:40:17.740 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:40:17.743 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:17.744 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:17.745 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:17.745 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:17.746 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:17.755 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:17.756 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:56.654 | INFO     | __main__:start:82 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:40:56.656 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:40:56.657 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:56.657 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:56.661 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:56.662 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:56.662 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:56.669 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:40:56.670 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:41:38.442 | INFO     | __main__:start:82 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:41:38.445 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:41:38.445 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:41:38.446 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:41:38.447 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:41:38.447 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:41:38.448 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:41:38.449 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:41:38.450 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:42:04.328 | INFO     | __main__:start:82 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:42:04.329 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=1
+2021-05-04 14:42:04.329 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:42:04.330 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:42:04.333 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:42:04.334 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:42:04.335 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:42:04.335 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:42:04.337 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:44:06.951 | INFO     | __main__:start:82 - wid
+2021-05-04 14:44:06.953 | INFO     | __main__:code_to_image:27 - wid
+2021-05-04 14:44:25.161 | INFO     | __main__:start:82 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 14:44:25.161 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 14:44:25.162 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:44:25.163 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:44:25.177 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:44:25.178 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:44:25.179 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:44:25.179 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:44:25.180 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:03.504 | INFO     | __main__:start:82 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 14:45:03.508 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 14:45:03.509 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:03.510 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:03.512 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:03.513 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:03.513 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:03.514 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:03.515 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:39.843 | INFO     | __main__:start:82 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 14:45:39.847 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 14:45:39.848 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:39.849 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:39.849 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:39.850 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:39.850 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:39.853 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:45:39.858 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:49:53.337 | INFO     | __main__:start:82 - if text[x] == "\n":
+    line+=1
+    text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+    logger.info('поймали')
+    height += 20
+    line_width = 0
+else:
+    line_width +=5
+2021-05-04 14:49:53.342 | INFO     | __main__:code_to_image:27 - if text[x] == "\n":
+    line+=1
+    text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+    logger.info('поймали')
+    height += 20
+    line_width = 0
+else:
+    line_width +=5
+2021-05-04 14:49:53.343 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:49:53.344 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:49:53.345 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:49:53.346 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:49:53.347 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:49:53.347 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:51:34.495 | INFO     | __main__:start:82 - if text[x] == "\n":
+    line+=1
+    text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+    logger.info('поймали')
+    height += 20
+    line_width = 0
+else:
+    line_width +=5
+2021-05-04 14:51:34.498 | INFO     | __main__:code_to_image:27 - if text[x] == "\n":
+    line+=1
+    text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+    logger.info('поймали')
+    height += 20
+    line_width = 0
+else:
+    line_width +=5
+2021-05-04 14:51:34.498 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:51:34.499 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:51:34.500 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:51:34.500 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:51:34.501 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 14:51:34.502 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:02:55.211 | INFO     | __main__:start:82 - if text[x] == "\n":
+    line+=1
+    text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+    logger.info('поймали')
+    height += 20
+    line_width = 0
+else:
+    line_width +=5
+2021-05-04 15:02:55.214 | INFO     | __main__:code_to_image:27 - if text[x] == "\n":
+    line+=1
+    text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+    logger.info('поймали')
+    height += 20
+    line_width = 0
+else:
+    line_width +=5
+2021-05-04 15:02:55.215 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:02:55.216 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:02:55.217 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:02:55.217 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:02:55.220 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:02:55.220 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.394 | INFO     | __main__:start:82 -     for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+2021-05-04 15:03:31.410 | INFO     | __main__:code_to_image:27 -     for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+2021-05-04 15:03:31.410 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.422 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.423 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.423 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.424 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.425 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.425 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.428 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.428 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:03:31.442 | INFO     | __main__:code_to_image:41 - поймали
+2021-05-04 15:05:30.850 | INFO     | __main__:start:83 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 15:05:30.851 | INFO     | __main__:code_to_image:27 - for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали')
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+2021-05-04 15:05:30.852 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:05:30.853 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:05:30.870 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:05:30.871 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:05:30.871 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:05:30.872 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:05:30.883 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.857 | INFO     | __main__:start:83 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+    text = '1   '+text
+    line = 1
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали '+str(x))
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+
+    width += long_line
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 15:09:42.861 | INFO     | __main__:code_to_image:27 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+    text = '1   '+text
+    line = 1
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали '+str(x))
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+
+    width += long_line
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 15:09:42.873 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.873 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.874 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.875 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.885 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.901 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.902 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.902 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.903 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.903 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.904 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.904 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:42.912 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.160 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.161 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.162 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.162 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.163 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.163 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.168 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.169 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.170 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.170 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.177 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.178 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.178 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.179 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.180 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.180 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.181 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.182 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.182 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.183 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.183 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.184 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.185 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.186 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.186 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.187 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.187 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.188 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.189 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.190 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.191 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.215 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.215 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.216 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:09:43.217 | INFO     | __main__:code_to_image:42 - поймали
+2021-05-04 15:10:46.100 | INFO     | __main__:start:83 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+    text = '1   '+text
+    line = 1
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали '+str(x))
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+
+    width += long_line
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 15:10:46.105 | INFO     | __main__:code_to_image:27 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+    text = '1   '+text
+    line = 1
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали '+str(x))
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+
+    width += long_line
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 15:10:46.110 | INFO     | __main__:code_to_image:42 - поймали 39
+2021-05-04 15:10:46.111 | INFO     | __main__:code_to_image:42 - поймали 44
+2021-05-04 15:10:46.111 | INFO     | __main__:code_to_image:42 - поймали 66
+2021-05-04 15:10:46.112 | INFO     | __main__:code_to_image:42 - поймали 71
+2021-05-04 15:10:46.114 | INFO     | __main__:code_to_image:42 - поймали 97
+2021-05-04 15:10:46.115 | INFO     | __main__:code_to_image:42 - поймали 102
+2021-05-04 15:10:46.115 | INFO     | __main__:code_to_image:42 - поймали 123
+2021-05-04 15:10:46.116 | INFO     | __main__:code_to_image:42 - поймали 143
+2021-05-04 15:10:46.116 | INFO     | __main__:code_to_image:42 - поймали 148
+2021-05-04 15:10:46.117 | INFO     | __main__:code_to_image:42 - поймали 176
+2021-05-04 15:10:46.117 | INFO     | __main__:code_to_image:42 - поймали 194
+2021-05-04 15:10:46.118 | INFO     | __main__:code_to_image:42 - поймали 217
+2021-05-04 15:10:46.149 | INFO     | __main__:code_to_image:42 - поймали 241
+2021-05-04 15:10:46.150 | INFO     | __main__:code_to_image:42 - поймали 267
+2021-05-04 15:10:46.150 | INFO     | __main__:code_to_image:42 - поймали 273
+2021-05-04 15:10:46.151 | INFO     | __main__:code_to_image:42 - поймали 309
+2021-05-04 15:10:46.152 | INFO     | __main__:code_to_image:42 - поймали 342
+2021-05-04 15:10:46.164 | INFO     | __main__:code_to_image:42 - поймали 367
+2021-05-04 15:10:46.164 | INFO     | __main__:code_to_image:42 - поймали 431
+2021-05-04 15:10:46.618 | INFO     | __main__:code_to_image:42 - поймали 479
+2021-05-04 15:10:46.619 | INFO     | __main__:code_to_image:42 - поймали 509
+2021-05-04 15:10:46.620 | INFO     | __main__:code_to_image:42 - поймали 541
+2021-05-04 15:10:46.620 | INFO     | __main__:code_to_image:42 - поймали 560
+2021-05-04 15:10:46.621 | INFO     | __main__:code_to_image:42 - поймали 592
+2021-05-04 15:10:46.622 | INFO     | __main__:code_to_image:42 - поймали 598
+2021-05-04 15:10:46.623 | INFO     | __main__:code_to_image:42 - поймали 639
+2021-05-04 15:10:46.623 | INFO     | __main__:code_to_image:42 - поймали 679
+2021-05-04 15:10:46.625 | INFO     | __main__:code_to_image:42 - поймали 685
+2021-05-04 15:10:46.626 | INFO     | __main__:code_to_image:42 - поймали 713
+2021-05-04 15:10:46.627 | INFO     | __main__:code_to_image:42 - поймали 719
+2021-05-04 15:10:46.627 | INFO     | __main__:code_to_image:42 - поймали 781
+2021-05-04 15:10:46.628 | INFO     | __main__:code_to_image:42 - поймали 787
+2021-05-04 15:10:46.628 | INFO     | __main__:code_to_image:42 - поймали 815
+2021-05-04 15:10:46.629 | INFO     | __main__:code_to_image:42 - поймали 821
+2021-05-04 15:10:46.630 | INFO     | __main__:code_to_image:42 - поймали 897
+2021-05-04 15:10:46.630 | INFO     | __main__:code_to_image:42 - поймали 935
+2021-05-04 15:10:46.631 | INFO     | __main__:code_to_image:42 - поймали 983
+2021-05-04 15:10:46.632 | INFO     | __main__:code_to_image:42 - поймали 1016
+2021-05-04 15:10:46.632 | INFO     | __main__:code_to_image:42 - поймали 1026
+2021-05-04 15:10:46.633 | INFO     | __main__:code_to_image:42 - поймали 1032
+2021-05-04 15:10:46.634 | INFO     | __main__:code_to_image:42 - поймали 1091
+2021-05-04 15:10:46.634 | INFO     | __main__:code_to_image:42 - поймали 1159
+2021-05-04 15:10:46.635 | INFO     | __main__:code_to_image:42 - поймали 1229
+2021-05-04 15:10:46.636 | INFO     | __main__:code_to_image:42 - поймали 1300
+2021-05-04 15:10:46.637 | INFO     | __main__:code_to_image:42 - поймали 1360
+2021-05-04 15:10:46.637 | INFO     | __main__:code_to_image:42 - поймали 1423
+2021-05-04 15:10:46.638 | INFO     | __main__:code_to_image:42 - поймали 1483
+2021-05-04 15:10:46.639 | INFO     | __main__:code_to_image:42 - поймали 1489
+2021-05-04 15:12:50.468 | INFO     | __main__:start:83 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+    text = '1   '+text
+    line = 1
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали '+str(x))
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+
+    width += long_line
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 15:12:50.474 | INFO     | __main__:code_to_image:27 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+    text = '1   '+text
+    line = 1
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    for x in range(len(text)):
+        if text[x] == "\n":
+            line+=1
+            text =text[:x]+'\n'+str(line)+'   '+text[x+1:]
+            logger.info('поймали '+str(x))
+            height += 20
+            line_width = 0
+        else:
+            line_width +=5
+
+        if long_line < line_width :
+            long_line = line_width
+
+    width += long_line
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 15:12:50.479 | INFO     | __main__:code_to_image:42 - поймали 2
+2021-05-04 15:12:50.480 | INFO     | __main__:code_to_image:42 - поймали 3
+2021-05-04 15:12:50.481 | INFO     | __main__:code_to_image:42 - поймали 4
+2021-05-04 15:12:50.481 | INFO     | __main__:code_to_image:42 - поймали 5
+2021-05-04 15:12:50.482 | INFO     | __main__:code_to_image:42 - поймали 6
+2021-05-04 15:12:50.492 | INFO     | __main__:code_to_image:42 - поймали 7
+2021-05-04 15:12:50.493 | INFO     | __main__:code_to_image:42 - поймали 8
+2021-05-04 15:12:50.493 | INFO     | __main__:code_to_image:42 - поймали 9
+2021-05-04 15:12:50.494 | INFO     | __main__:code_to_image:42 - поймали 10
+2021-05-04 15:12:50.495 | INFO     | __main__:code_to_image:42 - поймали 11
+2021-05-04 15:12:50.495 | INFO     | __main__:code_to_image:42 - поймали 12
+2021-05-04 15:12:50.496 | INFO     | __main__:code_to_image:42 - поймали 13
+2021-05-04 15:12:50.496 | INFO     | __main__:code_to_image:42 - поймали 14
+2021-05-04 15:12:51.013 | INFO     | __main__:code_to_image:42 - поймали 15
+2021-05-04 15:12:51.014 | INFO     | __main__:code_to_image:42 - поймали 16
+2021-05-04 15:12:51.015 | INFO     | __main__:code_to_image:42 - поймали 17
+2021-05-04 15:12:51.024 | INFO     | __main__:code_to_image:42 - поймали 18
+2021-05-04 15:12:51.025 | INFO     | __main__:code_to_image:42 - поймали 19
+2021-05-04 15:12:51.026 | INFO     | __main__:code_to_image:42 - поймали 20
+2021-05-04 15:12:51.026 | INFO     | __main__:code_to_image:42 - поймали 21
+2021-05-04 15:12:51.162 | INFO     | __main__:code_to_image:42 - поймали 22
+2021-05-04 15:12:51.163 | INFO     | __main__:code_to_image:42 - поймали 23
+2021-05-04 15:12:51.164 | INFO     | __main__:code_to_image:42 - поймали 24
+2021-05-04 15:12:51.164 | INFO     | __main__:code_to_image:42 - поймали 25
+2021-05-04 15:12:51.165 | INFO     | __main__:code_to_image:42 - поймали 26
+2021-05-04 15:12:51.166 | INFO     | __main__:code_to_image:42 - поймали 27
+2021-05-04 15:12:51.166 | INFO     | __main__:code_to_image:42 - поймали 28
+2021-05-04 15:12:51.167 | INFO     | __main__:code_to_image:42 - поймали 29
+2021-05-04 15:12:51.168 | INFO     | __main__:code_to_image:42 - поймали 30
+2021-05-04 15:12:51.168 | INFO     | __main__:code_to_image:42 - поймали 31
+2021-05-04 15:12:51.169 | INFO     | __main__:code_to_image:42 - поймали 32
+2021-05-04 15:12:51.170 | INFO     | __main__:code_to_image:42 - поймали 33
+2021-05-04 15:12:51.170 | INFO     | __main__:code_to_image:42 - поймали 34
+2021-05-04 15:12:51.171 | INFO     | __main__:code_to_image:42 - поймали 35
+2021-05-04 15:12:51.172 | INFO     | __main__:code_to_image:42 - поймали 36
+2021-05-04 15:12:51.173 | INFO     | __main__:code_to_image:42 - поймали 37
+2021-05-04 15:12:51.173 | INFO     | __main__:code_to_image:42 - поймали 38
+2021-05-04 15:12:51.174 | INFO     | __main__:code_to_image:42 - поймали 39
+2021-05-04 15:12:51.175 | INFO     | __main__:code_to_image:42 - поймали 40
+2021-05-04 15:12:51.176 | INFO     | __main__:code_to_image:42 - поймали 41
+2021-05-04 15:12:51.177 | INFO     | __main__:code_to_image:42 - поймали 42
+2021-05-04 15:12:51.177 | INFO     | __main__:code_to_image:42 - поймали 43
+2021-05-04 15:12:51.178 | INFO     | __main__:code_to_image:42 - поймали 44
+2021-05-04 15:12:51.179 | INFO     | __main__:code_to_image:42 - поймали 45
+2021-05-04 15:12:51.179 | INFO     | __main__:code_to_image:42 - поймали 46
+2021-05-04 15:12:51.180 | INFO     | __main__:code_to_image:42 - поймали 47
+2021-05-04 15:12:51.181 | INFO     | __main__:code_to_image:42 - поймали 48
+2021-05-04 15:12:51.188 | INFO     | __main__:code_to_image:42 - поймали 49
+2021-05-04 18:45:44.663 | INFO     | __main__:start:104 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(data)
+
+    width += text_info[2]
+    line = text_info[1]
+    text = text_info[0]
+2021-05-04 18:45:44.666 | INFO     | __main__:code_to_image:27 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(data)
+
+    width += text_info[2]
+    line = text_info[1]
+    text = text_info[0]
+2021-05-04 18:45:44.671 | ERROR    | __main__:connect:112 - телеграмм отвалился ваще
+2021-05-04 18:46:28.504 | INFO     | __main__:start:104 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(data)
+
+    width += text_info[2]
+    line = text_info[1]
+    text = text_info[0]
+2021-05-04 18:46:28.505 | INFO     | __main__:code_to_image:27 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    height = 250
+    width = 300
+
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(data)
+
+    width += text_info[2]
+    line = text_info[1]
+    text = text_info[0]
+2021-05-04 18:49:07.720 | INFO     | __main__:start:106 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(text)
+
+    line = text_info[1]
+    text = text_info[0]
+
+    height = 250+(line*20)
+    width = 300+(text_info[2]*7)
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+2021-05-04 18:49:07.724 | INFO     | __main__:code_to_image:27 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(text)
+
+    line = text_info[1]
+    text = text_info[0]
+
+    height = 250+(line*20)
+    width = 300+(text_info[2]*7)
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+2021-05-04 18:49:34.123 | INFO     | __main__:start:106 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(text)
+
+    line = text_info[1]
+    text = text_info[0]
+
+    height = 250+(line*20)
+    width = 300+(text_info[2]*7)
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 18:49:34.151 | INFO     | __main__:code_to_image:27 - def code_to_image(string,id_chat): 
+
+    text = string
+
+    logger.info(text)
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+
+    text_info = string_info(text)
+
+    line = text_info[1]
+    text = text_info[0]
+
+    height = 250+(line*20)
+    width = 300+(text_info[2]*7)
+
+    text = text+'\n' + str(line+1)+'\n'+str(line+2)+'\n'
+
+    # создаем картинку
+    img = Image.new('RGB', (width+50, height), color = (73, 109, 137))
+    #img = Image.open("bg.jpg") 
+    fnt = ImageFont.truetype('Pt.ttf', 20)
+    d = ImageDraw.Draw(img)
+    
+
+    d.ellipse([(50,30),(80,60)], fill=(20,20,20,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(20,20,20,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(20,20,20,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(20,20,20,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+
+    d.text((100,100), text, font=fnt, fill=(255, 255, 0))
+    cropimg = img.crop((0,0,width+50,height))
+    cropimg.save('pil_text_font.png')
+
+    imgOut = open('pil_text_font.png','rb')
+    bot.send_photo(id_chat, imgOut, caption='картинка сделанна ботом')
+    imgOut.close()
+2021-05-04 18:50:51.581 | INFO     | __main__:start:106 - # формат текста и подсчет строк и символов
+def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+
+        if len(in_text[x])>line_width:
+            line_width = len(in_text[x])            
+
+        in_text[x] = pred_number+str(x+1)+'    '+in_text[x]
+        
+
+    line = len(in_text)
+
+    out_text = '\n'.join(in_text)
+
+    print(str(line)+' '+str(line_width))
+
+    return [out_text,line,line_width]
+2021-05-04 18:50:51.585 | INFO     | __main__:code_to_image:27 - # формат текста и подсчет строк и символов
+def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+
+        if len(in_text[x])>line_width:
+            line_width = len(in_text[x])            
+
+        in_text[x] = pred_number+str(x+1)+'    '+in_text[x]
+        
+
+    line = len(in_text)
+
+    out_text = '\n'.join(in_text)
+
+    print(str(line)+' '+str(line_width))
+
+    return [out_text,line,line_width]
+2021-05-04 18:57:11.969 | INFO     | __main__:start:104 - for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 18:57:11.970 | INFO     | __main__:code_to_image:27 - for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 18:57:11.976 | ERROR    | __main__:connect:112 - телеграмм отвалился ваще
+2021-05-04 18:57:54.393 | INFO     | __main__:start:104 - for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 18:57:54.394 | INFO     | __main__:code_to_image:27 - for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 18:59:22.626 | INFO     | __main__:start:104 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 18:59:22.627 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:01:23.690 | INFO     | __main__:start:104 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:01:23.691 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:04:26.238 | INFO     | __main__:start:104 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:04:26.241 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:05:29.731 | INFO     | __main__:start:104 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:05:29.732 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:06:58.708 | INFO     | __main__:start:104 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-04 19:06:58.708 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:54:00.137 | INFO     | __main__:start:153 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:54:00.140 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:56:15.408 | INFO     | __main__:start:153 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:56:15.411 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:57:15.044 | INFO     | __main__:start:153 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:57:15.049 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:58:13.408 | INFO     | __main__:start:153 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:58:13.413 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:59:24.235 | INFO     | __main__:start:153 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 17:59:24.238 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:00:08.651 | INFO     | __main__:start:153 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:00:08.652 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:01:12.102 | INFO     | __main__:start:153 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:01:12.111 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:05:57.767 | INFO     | __main__:start:150 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:05:57.778 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:05:57.829 | ERROR    | __main__:connect:158 - телеграмм отвалился ваще
+2021-05-06 18:06:50.525 | INFO     | __main__:start:150 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:06:50.526 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:08:04.896 | INFO     | __main__:start:150 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:08:04.899 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:31:48.152 | INFO     | __main__:start:150 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-06 18:31:48.155 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:17:51.305 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:17:51.309 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:17:51.333 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-07 16:19:01.335 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-07 16:19:32.162 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:19:32.165 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:19:32.170 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-07 16:19:57.481 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:19:57.482 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:23:00.413 | INFO     | __main__:start:157 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:23:00.416 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:24:43.824 | INFO     | __main__:start:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:24:43.827 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:25:48.935 | INFO     | __main__:start:159 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:25:48.939 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:28:54.887 | INFO     | __main__:start:159 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:28:54.890 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:30:56.879 | INFO     | __main__:start:159 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:30:56.883 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:32:30.475 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:32:30.479 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:33:14.792 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:33:14.795 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:33:14.814 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-07 16:34:08.288 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:34:08.291 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:34:08.309 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-07 16:35:18.312 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-07 16:36:05.500 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:36:05.501 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:36:52.392 | INFO     | __main__:start:156 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 16:36:52.395 | INFO     | __main__:code_to_image:27 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-07 17:43:23.903 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-08 18:08:17.611 | ERROR    | __main__:connect:164 - телеграмм отвалился ваще
+2021-05-09 03:23:35.612 | INFO     | __main__:start:165 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:23:35.614 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:23:35.624 | ERROR    | __main__:connect:173 - телеграмм отвалился ваще
+2021-05-09 03:24:40.302 | INFO     | __main__:start:165 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:24:40.303 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:25:42.974 | INFO     | __main__:start:165 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:25:42.977 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:26:44.549 | INFO     | __main__:start:167 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:26:44.550 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:28:22.335 | INFO     | __main__:start:169 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:28:22.336 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:29:06.125 | INFO     | __main__:start:169 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:29:06.126 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:29:47.572 | INFO     | __main__:start:169 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:29:47.573 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:52:23.297 | INFO     | __main__:start:174 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:52:23.298 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:53:10.576 | INFO     | __main__:start:174 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:53:10.577 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:56:15.574 | INFO     | __main__:start:174 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:56:15.575 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:57:39.327 | INFO     | __main__:start:175 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:57:39.328 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:58:59.573 | INFO     | __main__:start:176 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 03:58:59.574 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else:
+            pred_number = ''
+2021-05-09 04:01:48.756 | INFO     | __main__:start:176 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:01:48.756 | INFO     | __main__:code_to_image:35 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:03:29.324 | INFO     | __main__:start:178 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:03:29.325 | INFO     | __main__:code_to_image:37 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:05:01.889 | INFO     | __main__:start:181 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:05:01.890 | INFO     | __main__:code_to_image:40 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:08:06.043 | INFO     | __main__:start:183 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:08:06.047 | INFO     | __main__:code_to_image:40 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:08:06.053 | ERROR    | __main__:connect:191 - телеграмм отвалился ваще
+2021-05-09 04:09:00.766 | INFO     | __main__:start:183 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:09:00.766 | INFO     | __main__:code_to_image:40 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:12:53.618 | INFO     | __main__:start:182 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:12:53.620 | INFO     | __main__:code_to_image:40 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:14:05.793 | INFO     | __main__:start:184 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:14:05.794 | INFO     | __main__:code_to_image:40 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:14:43.028 | INFO     | __main__:start:183 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 04:14:43.029 | INFO     | __main__:code_to_image:39 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-09 18:33:06.555 | ERROR    | __main__:connect:191 - телеграмм отвалился ваще
+2021-05-10 04:10:32.640 | ERROR    | __main__:connect:191 - телеграмм отвалился ваще
+2021-05-13 04:51:25.879 | INFO     | __main__:start:304 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:51:26.450 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:51:26.454 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 04:52:27.962 | INFO     | __main__:start:304 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:52:28.455 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:52:28.459 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 04:53:22.371 | INFO     | __main__:start:304 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:53:22.892 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:53:22.928 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 04:54:32.938 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 04:55:42.949 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 04:56:03.620 | INFO     | __main__:start:304 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:56:04.203 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 04:56:04.214 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 04:57:14.218 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 05:00:34.383 | INFO     | __main__:start:304 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:00:34.953 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:00:34.988 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 05:01:44.995 | ERROR    | __main__:connect:312 - телеграмм отвалился ваще
+2021-05-13 05:03:48.675 | INFO     | __main__:start:305 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:03:49.193 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:04:42.060 | INFO     | __main__:start:305 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:04:42.587 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:05:07.064 | INFO     | __main__:start:305 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:05:07.583 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:05:34.854 | INFO     | __main__:start:305 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:05:35.441 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:06:38.721 | INFO     | __main__:start:305 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:06:39.230 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:07:05.659 | INFO     | __main__:start:305 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:07:06.293 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:09:07.761 | INFO     | __main__:start:305 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:09:08.345 | INFO     | __main__:code_to_image:158 - def string_info(data):
+    in_text = data.splitlines()
+    pred_number = ''
+    line_width = 0
+
+    for x in range(len(in_text)):
+
+        if len(in_text)>10 and x<9 or len(in_text)>100 and x<99:
+            pred_number = '0'
+
+        elif len(in_text)>100 and x<9:
+            pred_number = '00'
+
+        else :
+            pred_number = ''
+2021-05-13 05:19:23.986 | INFO     | __main__:start:305 - d.ellipse([(50,30),(80,60)], fill=(25,25,25,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(25,25,25,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(25,25,25,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(25,25,25,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+2021-05-13 05:19:24.303 | INFO     | __main__:code_to_image:158 - d.ellipse([(50,30),(80,60)], fill=(25,25,25,128))
+    d.ellipse([(width-30,30),(width,60)], fill=(25,25,25,128))
+    d.rectangle([(70, 30) , (width-10,80)], fill=(25,25,25,128))
+    d.rectangle([(50, 50) , (width,height)], fill=(25,25,25,128))
+    d.ellipse([(70,50),(90,70)], fill=(200,20,20,128))
+    d.ellipse([(100,50),(120,70)], fill=(253,233,16,128))
+    d.ellipse([(130,50),(150,70)], fill=(0,255,0,128))
+2021-05-13 05:20:01.790 | INFO     | __main__:start:305 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-13 05:20:02.080 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-13 05:22:06.410 | INFO     | __main__:start:305 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-13 05:22:06.983 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:41:29.888 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:41:30.652 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:42:42.938 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:42:43.643 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:43:16.524 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:43:17.297 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:43:56.062 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:43:56.814 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:44:33.668 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:44:34.420 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:45:11.797 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:45:12.541 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:46:06.318 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 13:46:07.062 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-14 20:37:19.232 | ERROR    | __main__:connect:320 - телеграмм отвалился ваще
+2021-05-15 21:02:11.912 | ERROR    | __main__:connect:320 - телеграмм отвалился ваще
+2021-05-16 18:51:08.861 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:51:09.374 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:52:50.625 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:52:51.155 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:53:25.493 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:53:26.126 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:54:13.177 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:54:13.659 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:54:50.325 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:54:50.913 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:56:50.212 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:56:50.686 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:57:27.283 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:57:27.815 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:58:24.888 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:58:25.439 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:59:28.036 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 18:59:28.556 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:00:09.593 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:00:10.115 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:00:51.702 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:00:52.187 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:01:14.785 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:01:15.317 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:02:12.125 | INFO     | __main__:start:312 - sdfsdfdsf
+2021-05-16 19:02:12.423 | INFO     | __main__:code_to_image:158 - sdfsdfdsf
+2021-05-16 19:02:55.858 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:02:56.321 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:03:57.489 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:03:57.941 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:04:44.506 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:04:44.999 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:05:33.835 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:05:34.302 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:06:16.645 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:06:17.340 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:07:17.886 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:07:18.334 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:07:49.531 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:07:50.032 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:09:06.089 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:09:06.569 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:10:05.326 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:10:05.816 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:10:43.818 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:10:44.322 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:11:10.212 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:11:10.727 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:12:07.148 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:12:07.641 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:12:38.049 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:12:38.635 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:13:21.992 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:13:22.489 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:13:51.064 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:13:51.532 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:14:16.865 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:14:17.327 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:14:54.676 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:14:55.170 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:15:16.698 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:15:17.309 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:16:39.171 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:16:39.654 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:17:10.841 | INFO     | __main__:start:312 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:17:11.368 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:27:15.403 | INFO     | __main__:start:306 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:27:15.882 | INFO     | __main__:code_to_image:158 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:27:15.895 | ERROR    | __main__:connect:314 - телеграмм отвалился ваще
+2021-05-16 19:28:08.920 | INFO     | __main__:start:308 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:28:09.476 | INFO     | __main__:code_to_image:160 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:28:15.929 | INFO     | __main__:start:308 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:28:16.235 | INFO     | __main__:code_to_image:160 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:28:25.258 | INFO     | __main__:start:308 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:28:25.545 | INFO     | __main__:code_to_image:160 - def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:28:59.585 | INFO     | __main__:start:308 - from loguru import logger
+import configparser
+import gc
+from memory_profiler import profile
+
+import telebot
+from telebot import types
+from telebot.types import InputMediaPhoto, InputMediaVideo
+
+from PIL import Image, ImageDraw, ImageFont
+
+import time
+from time import strftime,gmtime
+from datetime import datetime, timedelta
+
+from pygments import highlight
+from pygments.lexers import PythonLexer
+from pygments.formatters import ImageFormatter
+from pygments.styles import STYLE_MAP
+from pygments.style import Style
+from pygments.token import Token
+from pygments.token import Keyword, Name, Comment, String, Error, \
+    Literal, Number, Operator, Other, Punctuation, Text, Generic, \
+    Whitespace
+
+import os
+import io
+import PIL.Image as Image
+
+from array import array
+
+import random
+
+logger.add("file_1.log", rotation="500 MB")
+
+config = configparser.ConfigParser()  
+config.read("settings.ini")
+
+bot = telebot.TeleBot(config["Telegramm"]["bot_token"])
+
+operators = [
+    ['def','#7DBFC7'],
+    ['for','#CE0018'],
+    ['in','#CE0018'],
+    ['if','#CE0018'],
+    ['elif','#CE0018'],
+    ['else','#CE0018'],
+    ['==','#CE0018'],
+    ['=','#CE0018'],
+    ['and','#CE0018']
+    ]
+
+class MyStyle(Style):
+    background_color = "#191919"
+    default_style = ""
+
+    styles = {
+        Comment: "#6272a4",
+        Comment.Hashbang: "#6272a4",
+        Comment.Multiline: "#6272a4",
+        Comment.Preproc: "#ff79c6",
+        Comment.Single: "#6272a4",
+        Comment.Special: "#6272a4",
+
+        Generic: "#f8f8f2",
+        Generic.Deleted: "#8b080b",
+        Generic.Emph: "#f8f8f2 underline",
+        Generic.Error: "#f8f8f2",
+        Generic.Heading: "#f8f8f2 bold",
+        Generic.Inserted: "#f8f8f2 bold",
+        Generic.Output: "#44475a",
+        Generic.Prompt: "#f8f8f2",
+        Generic.Strong: "#f8f8f2",
+        Generic.Subheading: "#f8f8f2 bold",
+        Generic.Traceback: "#f8f8f2",
+
+        Error: "#f8f8f2",
+
+        Keyword: "#ff79c6",
+        Keyword.Constant: "#ff79c6",
+        Keyword.Declaration: "#8be9fd italic",
+        Keyword.Namespace: "#ff79c6",
+        Keyword.Pseudo: "#ff79c6",
+        Keyword.Reserved: "#ff79c6",
+        Keyword.Type: "#8be9fd",
+
+        Literal: "#f8f8f2",
+        Literal.Date: "#f8f8f2",
+
+        Name: "#f8f8f2",
+        Name.Attribute: "#50fa7b",
+        Name.Builtin: "#8be9fd italic",
+        Name.Builtin.Pseudo: "#f8f8f2",
+        Name.Class: "#50fa7b",
+        Name.Constant: "#f8f8f2",
+        Name.Decorator: "#f8f8f2",
+        Name.Entity: "#f8f8f2",
+        Name.Exception: "#f8f8f2",
+        Name.Function: "#50fa7b",
+        Name.Label: "#8be9fd italic",
+        Name.Namespace: "#f8f8f2",
+        Name.Other: "#f8f8f2",
+        Name.Tag: "#ff79c6",
+        Name.Variable: "#8be9fd italic",
+        Name.Variable.Class: "#8be9fd italic",
+        Name.Variable.Global: "#8be9fd italic",
+        Name.Variable.Instance: "#8be9fd italic",
+
+        Number: "#bd93f9",
+        Number.Bin: "#bd93f9",
+        Number.Float: "#bd93f9",
+        Number.Hex: "#bd93f9",
+        Number.Integer: "#bd93f9",
+        Number.Integer.Long: "#bd93f9",
+        Number.Oct: "#bd93f9",
+
+        Operator: "#ff79c6",
+        Operator.Word: "#ff79c6",
+
+        Other: "#f8f8f2",
+
+        Punctuation: "#f8f8f2",
+
+        String: "#f1fa8c",
+        String.Backtick: "#f1fa8c",
+        String.Char: "#f1fa8c",
+        String.Doc: "#f1fa8c",
+        String.Double: "#f1fa8c",
+        String.Escape: "#f1fa8c",
+        String.Heredoc: "#f1fa8c",
+        String.Interpol: "#f1fa8c",
+        String.Other: "#f1fa8c",
+        String.Regex: "#f1fa8c",
+        String.Single: "#f1fa8c",
+        String.Symbol: "#f1fa8c",
+
+        Text: "#f8f8f2",
+
+        Whitespace: "#f8f8f2"
+
+    }
+
+def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-16 19:29:02.497 | INFO     | __main__:code_to_image:160 - from loguru import logger
+import configparser
+import gc
+from memory_profiler import profile
+
+import telebot
+from telebot import types
+from telebot.types import InputMediaPhoto, InputMediaVideo
+
+from PIL import Image, ImageDraw, ImageFont
+
+import time
+from time import strftime,gmtime
+from datetime import datetime, timedelta
+
+from pygments import highlight
+from pygments.lexers import PythonLexer
+from pygments.formatters import ImageFormatter
+from pygments.styles import STYLE_MAP
+from pygments.style import Style
+from pygments.token import Token
+from pygments.token import Keyword, Name, Comment, String, Error, \
+    Literal, Number, Operator, Other, Punctuation, Text, Generic, \
+    Whitespace
+
+import os
+import io
+import PIL.Image as Image
+
+from array import array
+
+import random
+
+logger.add("file_1.log", rotation="500 MB")
+
+config = configparser.ConfigParser()  
+config.read("settings.ini")
+
+bot = telebot.TeleBot(config["Telegramm"]["bot_token"])
+
+operators = [
+    ['def','#7DBFC7'],
+    ['for','#CE0018'],
+    ['in','#CE0018'],
+    ['if','#CE0018'],
+    ['elif','#CE0018'],
+    ['else','#CE0018'],
+    ['==','#CE0018'],
+    ['=','#CE0018'],
+    ['and','#CE0018']
+    ]
+
+class MyStyle(Style):
+    background_color = "#191919"
+    default_style = ""
+
+    styles = {
+        Comment: "#6272a4",
+        Comment.Hashbang: "#6272a4",
+        Comment.Multiline: "#6272a4",
+        Comment.Preproc: "#ff79c6",
+        Comment.Single: "#6272a4",
+        Comment.Special: "#6272a4",
+
+        Generic: "#f8f8f2",
+        Generic.Deleted: "#8b080b",
+        Generic.Emph: "#f8f8f2 underline",
+        Generic.Error: "#f8f8f2",
+        Generic.Heading: "#f8f8f2 bold",
+        Generic.Inserted: "#f8f8f2 bold",
+        Generic.Output: "#44475a",
+        Generic.Prompt: "#f8f8f2",
+        Generic.Strong: "#f8f8f2",
+        Generic.Subheading: "#f8f8f2 bold",
+        Generic.Traceback: "#f8f8f2",
+
+        Error: "#f8f8f2",
+
+        Keyword: "#ff79c6",
+        Keyword.Constant: "#ff79c6",
+        Keyword.Declaration: "#8be9fd italic",
+        Keyword.Namespace: "#ff79c6",
+        Keyword.Pseudo: "#ff79c6",
+        Keyword.Reserved: "#ff79c6",
+        Keyword.Type: "#8be9fd",
+
+        Literal: "#f8f8f2",
+        Literal.Date: "#f8f8f2",
+
+        Name: "#f8f8f2",
+        Name.Attribute: "#50fa7b",
+        Name.Builtin: "#8be9fd italic",
+        Name.Builtin.Pseudo: "#f8f8f2",
+        Name.Class: "#50fa7b",
+        Name.Constant: "#f8f8f2",
+        Name.Decorator: "#f8f8f2",
+        Name.Entity: "#f8f8f2",
+        Name.Exception: "#f8f8f2",
+        Name.Function: "#50fa7b",
+        Name.Label: "#8be9fd italic",
+        Name.Namespace: "#f8f8f2",
+        Name.Other: "#f8f8f2",
+        Name.Tag: "#ff79c6",
+        Name.Variable: "#8be9fd italic",
+        Name.Variable.Class: "#8be9fd italic",
+        Name.Variable.Global: "#8be9fd italic",
+        Name.Variable.Instance: "#8be9fd italic",
+
+        Number: "#bd93f9",
+        Number.Bin: "#bd93f9",
+        Number.Float: "#bd93f9",
+        Number.Hex: "#bd93f9",
+        Number.Integer: "#bd93f9",
+        Number.Integer.Long: "#bd93f9",
+        Number.Oct: "#bd93f9",
+
+        Operator: "#ff79c6",
+        Operator.Word: "#ff79c6",
+
+        Other: "#f8f8f2",
+
+        Punctuation: "#f8f8f2",
+
+        String: "#f1fa8c",
+        String.Backtick: "#f1fa8c",
+        String.Char: "#f1fa8c",
+        String.Doc: "#f1fa8c",
+        String.Double: "#f1fa8c",
+        String.Escape: "#f1fa8c",
+        String.Heredoc: "#f1fa8c",
+        String.Interpol: "#f1fa8c",
+        String.Other: "#f1fa8c",
+        String.Regex: "#f1fa8c",
+        String.Single: "#f1fa8c",
+        String.Symbol: "#f1fa8c",
+
+        Text: "#f8f8f2",
+
+        Whitespace: "#f8f8f2"
+
+    }
+
+def code2img(string):
+    python_code = string
+    png_code = highlight(python_code, PythonLexer(), ImageFormatter(
+        font_size=20,
+        style=MyStyle,
+        line_number_bg='#191919',
+        line_number_fg = '#697187',
+        line_number_separator=False
+        ))
+
+    image = Image.open(io.BytesIO(png_code))
+    image.save('code2img2.jpg')
+2021-05-19 17:37:17.697 | INFO     | __main__:start:312 - def code_to_image(string,id_chat): 
+    code2img(string)
+    text = string
+
+    logger.info(text)
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+2021-05-19 17:37:18.064 | INFO     | __main__:code_to_image:160 - def code_to_image(string,id_chat): 
+    code2img(string)
+    text = string
+
+    logger.info(text)
+
+    long_line = 0
+    line_width = 0
+    text = text+'\n'
+2021-05-19 19:22:43.506 | INFO     | __main__:code_to_image:160 - @bot.message_handler(content_types=['text'])
+def get_text_messages(message):
+    text = message.text
+    id_chat = message.from_user.id
+    code_to_image(text,id_chat)
+2021-05-19 19:40:11.382 | INFO     | __main__:CollectImage:154 - @bot.message_handler(content_types=['text'])
+def get_text_messages(message):
+    text = message.text
+    id_chat = message.from_user.id
+    code_to_image(text,id_chat)
+2021-05-19 19:47:53.546 | INFO     | __main__:CollectImage:152 - @bot.message_handler(content_types=['text'])
+def get_text_messages(message):
+    text = message.text
+    id_chat = message.from_user.id
+    code_to_image(text,id_chat)
+2021-05-19 19:47:54.509 | ERROR    | __main__:Connect:224 - телеграмм отвалился ваще
+2021-05-19 19:48:53.916 | INFO     | __main__:CollectImage:152 - @bot.message_handler(content_types=['text'])
+def get_text_messages(message):
+    text = message.text
+    id_chat = message.from_user.id
+    code_to_image(text,id_chat)
+2021-05-19 19:48:54.891 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 680117162
+2021-05-19 19:50:25.973 | INFO     | __main__:CollectImage:152 - Получили код от680117162
+2021-05-19 19:50:26.876 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 680117162
+2021-05-19 19:50:40.113 | INFO     | __main__:ParsToCode:209 - получили код от -1001405827842
+2021-05-19 19:50:40.252 | INFO     | __main__:CollectImage:152 - Получили код от-1001405827842
+2021-05-19 19:50:41.192 | INFO     | __main__:CollectImage:204 - отправили картинку кода в -1001405827842
+2021-05-19 19:59:47.033 | INFO     | __main__:CollectImage:152 - Получили код от680117162
+2021-05-19 19:59:47.522 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 680117162
+2021-05-19 20:01:02.109 | INFO     | __main__:CollectImage:152 - Получили код от184113675
+2021-05-19 20:01:02.574 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 184113675
+2021-05-19 20:01:23.686 | INFO     | __main__:CollectImage:152 - Получили код от184113675
+2021-05-19 20:01:24.087 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 184113675
+2021-05-19 20:01:48.349 | INFO     | __main__:CollectImage:152 - Получили код от184113675
+2021-05-19 20:01:48.677 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 184113675
+2021-05-19 20:13:28.588 | INFO     | __main__:CollectImage:152 - Получили код от184113675
+2021-05-19 20:13:29.329 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 184113675
+2021-05-19 20:45:02.166 | INFO     | __main__:CollectImage:152 - Получили код от491708943
+2021-05-19 20:45:03.206 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 491708943
+2021-05-19 20:45:08.647 | INFO     | __main__:CollectImage:152 - Получили код от330688495
+2021-05-19 20:45:11.036 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 330688495
+2021-05-19 20:45:11.051 | INFO     | __main__:CollectImage:152 - Получили код от491708943
+2021-05-19 20:45:11.577 | INFO     | __main__:CollectImage:152 - Получили код от491708943
+2021-05-19 20:45:11.603 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 491708943
+2021-05-19 20:45:12.038 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 491708943
+2021-05-19 20:45:15.397 | INFO     | __main__:CollectImage:152 - Получили код от491708943
+2021-05-19 20:45:15.622 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 491708943
+2021-05-19 20:45:44.079 | INFO     | __main__:CollectImage:152 - Получили код от330688495
+2021-05-19 20:45:46.754 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 330688495
+2021-05-19 20:45:47.803 | INFO     | __main__:CollectImage:152 - Получили код от491708943
+2021-05-19 20:46:12.713 | INFO     | __main__:CollectImage:152 - Получили код от491708943
+2021-05-19 20:46:13.106 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 491708943
+2021-05-19 20:46:33.872 | INFO     | __main__:CollectImage:152 - Получили код от1799507186
+2021-05-19 20:46:34.196 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1799507186
+2021-05-19 20:46:46.888 | INFO     | __main__:CollectImage:152 - Получили код от1799507186
+2021-05-19 20:46:47.107 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1799507186
+2021-05-19 20:47:26.300 | INFO     | __main__:CollectImage:152 - Получили код от1427482815
+2021-05-19 20:47:26.497 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1427482815
+2021-05-19 20:47:40.518 | INFO     | __main__:CollectImage:152 - Получили код от1427482815
+2021-05-19 20:47:40.780 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1427482815
+2021-05-19 20:48:34.597 | INFO     | __main__:CollectImage:152 - Получили код от1427482815
+2021-05-19 20:48:34.791 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1427482815
+2021-05-19 20:48:38.201 | INFO     | __main__:CollectImage:152 - Получили код от74035656
+2021-05-19 20:48:38.416 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 74035656
+2021-05-19 20:48:42.566 | INFO     | __main__:CollectImage:152 - Получили код от74035656
+2021-05-19 20:48:42.842 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 74035656
+2021-05-19 20:48:58.423 | INFO     | __main__:CollectImage:152 - Получили код от1799507186
+2021-05-19 20:48:59.072 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1799507186
+2021-05-19 20:49:23.242 | INFO     | __main__:CollectImage:152 - Получили код от1799507186
+2021-05-19 20:49:23.530 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1799507186
+2021-05-19 20:49:43.356 | INFO     | __main__:CollectImage:152 - Получили код от1799507186
+2021-05-19 20:49:43.730 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 1799507186
+2021-05-19 20:51:52.130 | INFO     | __main__:CollectImage:152 - Получили код от173839715
+2021-05-19 20:51:52.343 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 173839715
+2021-05-19 20:51:59.174 | INFO     | __main__:CollectImage:152 - Получили код от173839715
+2021-05-19 20:51:59.429 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 173839715
+2021-05-19 20:52:04.987 | INFO     | __main__:CollectImage:152 - Получили код от173839715
+2021-05-19 20:52:05.369 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 173839715
+2021-05-19 20:52:49.926 | INFO     | __main__:ParsToCode:209 - получили код от 173839715
+2021-05-19 20:52:49.947 | INFO     | __main__:CollectImage:152 - Получили код от173839715
+2021-05-19 20:52:50.653 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 173839715
+2021-05-19 20:56:57.566 | INFO     | __main__:CollectImage:152 - Получили код от161021232
+2021-05-19 20:56:57.857 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 161021232
+2021-05-19 20:57:12.858 | INFO     | __main__:CollectImage:152 - Получили код от161021232
+2021-05-19 20:57:13.080 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 161021232
+2021-05-19 21:02:08.057 | INFO     | __main__:CollectImage:152 - Получили код от680117162
+2021-05-19 21:02:08.698 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 680117162
+2021-05-19 21:02:26.629 | INFO     | __main__:CollectImage:152 - Получили код от680117162
+2021-05-19 21:02:27.192 | INFO     | __main__:CollectImage:204 - отправили картинку кода в 680117162
