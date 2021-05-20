@@ -1,5 +1,6 @@
 # Object file
 *.o
+settings.ini
 
 # Ada Library Information
 *.ali
