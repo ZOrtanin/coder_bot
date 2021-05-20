@@ -1,6 +1,8 @@
 # Object file
 *.o
 settings.ini
+.DS_Store
+
 
 # Ada Library Information
 *.ali
